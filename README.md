@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Research--Stage-orange)
+![Domain](https://img.shields.io/badge/Domain-Synthetic%20Genomics-purple)
 # GeneWeaver: Advanced Computational Framework for Synthetic Genomics
 
 ### *A 64-Stage Engineering Odyssey in Molecular Computing and XNA Architectures*
