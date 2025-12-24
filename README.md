@@ -119,6 +119,8 @@ The framework draws inspiration from established principles such as:
 These models are simplified and adapted for computational experimentation rather than biological precision.
 
 ---
+📍 See [ROADMAP.md](ROADMAP.md) for planned research directions and development phases.
+
 
 ## 💻 Installation & Usage (Experimental)
 
@@ -127,6 +129,7 @@ git clone https://github.com/cmessin02-cmyk/GeneWeaver.git
 cd GeneWeaver
 pip install -r requirements.txt
 python main.py
+
 
 📄 License
 MIT License
